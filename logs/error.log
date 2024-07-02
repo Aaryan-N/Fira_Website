@@ -1,0 +1,8 @@
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Tue Jul 02 16:14:19.370982 2024] [mpm_winnt:notice] [pid 4540:tid 172] AH00455: Apache/2.4.60 (Win64) configured -- resuming normal operations
+[Tue Jul 02 16:14:19.370982 2024] [mpm_winnt:notice] [pid 4540:tid 172] AH00456: Apache Lounge VS17 Server built: Jun 27 2024 13:13:02
+[Tue Jul 02 16:14:19.370982 2024] [core:notice] [pid 4540:tid 172] AH00094: Command line: 'C:\\Users\\aarya\\WebstormProjects\\Hydra_Website\\bin\\httpd.exe -d C:/Users/aarya/WebstormProjects/Hydra_Website'
+[Tue Jul 02 16:14:19.370982 2024] [mpm_winnt:notice] [pid 4540:tid 172] AH00418: Parent: Created child process 8400
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Tue Jul 02 16:14:20.140236 2024] [mpm_winnt:notice] [pid 8400:tid 364] AH00354: Child: Starting 64 worker threads.
