@@ -23,3 +23,42 @@ pm_winnt:notice] [pid 21488:tid 384] AH00354: Child: Starting 64 worker threads.
 [Wed Jul 03 00:09:47.459350 2024] [core:notice] [pid 16644:tid 372] AH00094: Command line: 'C:\\Users\\aarya\\WebstormProjects\\Hydra_Website\\bin\\httpd.exe -d C:/Users/aarya/WebstormProjects/Hydra_Website'
 [Wed Jul 03 00:09:47.463300 2024] [mpm_winnt:notice] [pid 16644:tid 372] AH00418: Parent: Created child process 16628
 [Wed Jul 03 00:09:47.774841 2024] [mpm_winnt:notice] [pid 16628:tid 368] AH00354: Child: Starting 64 worker threads.
+[Wed Jul 03 12:16:00.187299 2024] [mpm_winnt:notice] [pid 16644:tid 372] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::1862:8b2:95ae:7ed. Set the 'ServerName' directive globally to suppress this message
+[Wed Jul 03 12:16:00.264087 2024] [mpm_winnt:notice] [pid 16644:tid 372] AH00455: Apache/2.4.60 (Win64) configured -- resuming normal operations
+[Wed Jul 03 12:16:00.264087 2024] [mpm_winnt:notice] [pid 16644:tid 372] AH00456: Apache Lounge VS17 Server built: Jun 27 2024 13:13:02
+[Wed Jul 03 12:16:00.264087 2024] [core:notice] [pid 16644:tid 372] AH00094: Command line: 'C:\\Users\\aarya\\WebstormProjects\\Hydra_Website\\bin\\httpd.exe -d C:/Users/aarya/WebstormProjects/Hydra_Website'
+[Wed Jul 03 12:16:00.272087 2024] [mpm_winnt:notice] [pid 16644:tid 372] AH00418: Parent: Created child process 24240
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::1862:8b2:95ae:7ed. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::1862:8b2:95ae:7ed. Set the 'ServerName' directive globally to suppress this message
+[Wed Jul 03 12:16:01.199072 2024] [mpm_winnt:notice] [pid 24240:tid 388] AH00354: Child: Starting 64 worker threads.
+[Wed Jul 03 12:16:02.215057 2024] [mpm_winnt:notice] [pid 16628:tid 368] AH00364: Child: All worker threads have exited.
+[Wed Jul 03 12:48:41.424193 2024] [mpm_winnt:notice] [pid 16644:tid 372] AH00424: Parent: Received restart signal -- Restarting the server.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::1862:8b2:95ae:7ed. Set the 'ServerName' directive globally to suppress this message
+[Wed Jul 03 12:48:41.556978 2024] [mpm_winnt:notice] [pid 16644:tid 372] AH00455: Apache/2.4.60 (Win64) configured -- resuming normal operations
+[Wed Jul 03 12:48:41.556978 2024] [mpm_winnt:notice] [pid 16644:tid 372] AH00456: Apache Lounge VS17 Server built: Jun 27 2024 13:13:02
+[Wed Jul 03 12:48:41.556978 2024] [core:notice] [pid 16644:tid 372] AH00094: Command line: 'C:\\Users\\aarya\\WebstormProjects\\Hydra_Website\\bin\\httpd.exe -d C:/Users/aarya/WebstormProjects/Hydra_Website'
+[Wed Jul 03 12:48:41.572365 2024] [mpm_winnt:notice] [pid 16644:tid 372] AH00418: Parent: Created child process 24256
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::1862:8b2:95ae:7ed. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using fe80::1862:8b2:95ae:7ed. Set the 'ServerName' directive globally to suppress this message
+[Wed Jul 03 12:48:42.435219 2024] [mpm_winnt:notice] [pid 24256:tid 212] AH00354: Child: Starting 64 worker threads.
+[Wed Jul 03 12:48:43.449621 2024] [mpm_winnt:notice] [pid 24240:tid 388] AH00364: Child: All worker threads have exited.
+[Wed Jul 03 12:48:45.572952 2024] [mpm_winnt:notice] [pid 16644:tid 372] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Jul 03 12:48:47.600915 2024] [mpm_winnt:notice] [pid 24256:tid 212] AH00364: Child: All worker threads have exited.
+[Wed Jul 03 12:48:47.626904 2024] [mpm_winnt:notice] [pid 16644:tid 372] AH00430: Parent: Child process 24256 exited successfully.
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Wed Jul 03 18:02:15.360268 2024] [mpm_winnt:notice] [pid 5556:tid 156] AH00455: Apache/2.4.60 (Win64) configured -- resuming normal operations
+[Wed Jul 03 18:02:15.361267 2024] [mpm_winnt:notice] [pid 5556:tid 156] AH00456: Apache Lounge VS17 Server built: Jun 27 2024 13:13:02
+[Wed Jul 03 18:02:15.361267 2024] [core:notice] [pid 5556:tid 156] AH00094: Command line: 'C:\\Users\\aarya\\WebstormProjects\\Hydra_Website\\bin\\httpd.exe -d C:/Users/aarya/WebstormProjects/Hydra_Website'
+[Wed Jul 03 18:02:15.362265 2024] [mpm_winnt:notice] [pid 5556:tid 156] AH00418: Parent: Created child process 9012
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+AH00558: httpd.exe: Could not reliably determine the server's fully qualified domain name, using ::1. Set the 'ServerName' directive globally to suppress this message
+[Wed Jul 03 18:02:16.976652 2024] [mpm_winnt:notice] [pid 9012:tid 364] AH00354: Child: Starting 64 worker threads.
+[Thu Jul 04 08:38:44.784640 2024] [mpm_winnt:notice] [pid 5556:tid 156] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jul 04 08:38:46.813960 2024] [mpm_winnt:notice] [pid 9012:tid 364] AH00364: Child: All worker threads have exited.
+[Thu Jul 04 08:38:46.886523 2024] [mpm_winnt:notice] [pid 5556:tid 156] AH00430: Parent: Child process 9012 exited successfully.
+[Thu Jul 04 08:38:47.712727 2024] [mpm_winnt:notice] [pid 15672:tid 360] AH00455: Apache/2.4.60 (Win64) configured -- resuming normal operations
+[Thu Jul 04 08:38:47.713733 2024] [mpm_winnt:notice] [pid 15672:tid 360] AH00456: Apache Lounge VS17 Server built: Jun 27 2024 13:13:02
+[Thu Jul 04 08:38:47.713733 2024] [core:notice] [pid 15672:tid 360] AH00094: Command line: 'C:\\Users\\aarya\\WebstormProjects\\Hydra_Website\\bin\\httpd.exe -d C:/Users/aarya/WebstormProjects/Hydra_Website'
+[Thu Jul 04 08:38:47.717143 2024] [mpm_winnt:notice] [pid 15672:tid 360] AH00418: Parent: Created child process 12504
+[Thu Jul 04 08:38:47.967996 2024] [mpm_winnt:notice] [pid 12504:tid 364] AH00354: Child: Starting 64 worker threads.
